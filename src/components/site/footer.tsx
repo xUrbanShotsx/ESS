@@ -99,6 +99,14 @@ export function Footer() {
           <p>
             Aligned to the WHS Act 2011 (NSW) · ISO&nbsp;45001 · SafeWork NSW
           </p>
+          <a
+            href="https://sanj-studio.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="transition-colors hover:text-onDark"
+          >
+            Website by SanjStudio
+          </a>
         </div>
       </div>
     </footer>
